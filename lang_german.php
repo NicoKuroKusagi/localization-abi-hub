@@ -10,60 +10,60 @@ define("ABI_UI_WELCOME_INFO_PWRESET", "Zum zurücksetzen des Passworts, bitte Em
 define("ABI_UI_WELCOME_INFO_CREATE", "Zur erstellung eines Benutzerkontos, bitte Daten eingeben.");
 define("ABI_UI_WELCOME_INFO_AGREEBOX", "Ich stimme zu: ");
 
-define("ABI_UI_WELCOME_HEADER_PWRESET_SENT", "Request sent!");
-define("ABI_UI_WELCOME_INFO_PWRESET_SENT", "If this email address is known on our end, you will receive an email shortly.");
+define("ABI_UI_WELCOME_HEADER_PWRESET_SENT", "Anfrage gesendet!");
+define("ABI_UI_WELCOME_INFO_PWRESET_SENT", "Falls uns diese E-Mail Adresse bekannt ist, erhältst Du in kürze eine E-Mail.");
 
-define("ABI_UI_WELCOME_HEADER_PWRESET_COMPLETE", "Password reset processed!");
-define("ABI_UI_WELCOME_INFO_PWRESET_COMPLETE", "Your password reset has been processed and your password has been changed.");
+define("ABI_UI_WELCOME_HEADER_PWRESET_COMPLETE", "Passwort wurde zurückgesetzt!");
+define("ABI_UI_WELCOME_INFO_PWRESET_COMPLETE", "Deine Anfrage auf Zurücksetzen des Passworts wurde angenommen und dein Passwort geändert.");
 
-define("ABI_UI_WELCOME_HEADER_PW_NO_MATCH", "Your passwords do not match!");
-define("ABI_UI_WELCOME_INFO_PW_NO_MATCH", "The entered passwords do not match.");
+define("ABI_UI_WELCOME_HEADER_PW_NO_MATCH", "Deine Passwörter sind nicht identisch!");
+define("ABI_UI_WELCOME_INFO_PW_NO_MATCH", "Deine Passwörter sind nicht identisch.");
 
-define("ABI_UI_WELCOME_HEADER_PW_TOO_WEAK", "Password too weak!");
-define("ABI_UI_WELCOME_INFO_PW_TOO_WEAK", "Your password is too weak. For your own safety, please use a stronger password.");
+define("ABI_UI_WELCOME_HEADER_PW_TOO_WEAK", "Passwort zu schwach!");
+define("ABI_UI_WELCOME_INFO_PW_TOO_WEAK", "Dein Passwort ist zu schwach. Zu deiner eigenen Sicherheit, verwende bitte ein sichereres Passwort.");
 
-define("ABI_UI_WELCOME_HEADER_EMAIL_INVALID", "Email address invalid!");
-define("ABI_UI_WELCOME_INFO_EMAIL_INVALID", "The entered email address is not valid. Please make sure to check for typos.");
+define("ABI_UI_WELCOME_HEADER_EMAIL_INVALID", "E-Mail Adresse ungültig!");
+define("ABI_UI_WELCOME_INFO_EMAIL_INVALID", "Die eingegebene E-Mail Adresse ist ungültig. Bitte überprüfe deine Eingaben.");
 
-define("ABI_UI_WELCOME_HEADER_ACCOUNT_AWAIT_CONFIRM", "Welcome to ABI!");
-define("ABI_UI_WELCOME_INFO_ACCOUNT_AWAIT_CONFIRM", "Your user account has been created and is now awaiting confirmation. Please check your email inbox, spam and promotional folders.");
+define("ABI_UI_WELCOME_HEADER_ACCOUNT_AWAIT_CONFIRM", "Willkommen bei ABI!");
+define("ABI_UI_WELCOME_INFO_ACCOUNT_AWAIT_CONFIRM", "Dein Benutzerkonto wurde erstellt und muss nun bestätigt werden. Bitte überprüfe deinen E-Mail Posteingang (und wenn nötig die Order für Spam und Werbung).");
 
-define("ABI_UI_WELCOME_HEADER_ACCOUNT_CONFIRMED", "Welcome to ABI!");
-define("ABI_UI_WELCOME_INFO_ACCOUNT_CONFIRMED", "Your account has been activated and you are now able to log in.");
+define("ABI_UI_WELCOME_HEADER_ACCOUNT_CONFIRMED", "Willkommen bei ABI!");
+define("ABI_UI_WELCOME_INFO_ACCOUNT_CONFIRMED", "Dein Benutzerkonto wurde aktiviert. Du kannst dich nun anmelden.");
 
-define("ABI_UI_WELCOME_HEADER_REGISTER_DISABLED", "Registrations disabled!");
-define("ABI_UI_WELCOME_INFO_REGISTER_DISABLED", "Registrations are disabled at this time.");
+define("ABI_UI_WELCOME_HEADER_REGISTER_DISABLED", "Registrierungen deaktiviert!");
+define("ABI_UI_WELCOME_INFO_REGISTER_DISABLED", "Momentan sind leider keine Registrierungen möglich.");
 
-define("ABI_UI_WELCOME_HEADER_LOGIN_DISABLED", "Logins disabled!");
-define("ABI_UI_WELCOME_INFO_LOGIN_DISABLED", "Logins are disabled at this time.");
+define("ABI_UI_WELCOME_HEADER_LOGIN_DISABLED", "Logins deaktiviert!");
+define("ABI_UI_WELCOME_INFO_LOGIN_DISABLED", "Momentan ist es leider nicht möglich sich einzuloggen.");
 
-define("ABI_UI_WELCOME_HEADER_LEGAL_CHECKBOXES", "Legal requirements not met!");
-define("ABI_UI_WELCOME_INFO_LEGAL_CHECKBOXES", "To create an account, you have to accept our guidelines and privacy policy!");
+define("ABI_UI_WELCOME_HEADER_LEGAL_CHECKBOXES", "Rechtliche Anforderungen nicht erfüllt!");
+define("ABI_UI_WELCOME_INFO_LEGAL_CHECKBOXES", "Um ein Benutzerkonto zu erstellen, ist es nötig, die Datenschutzbestimmungen und Nutzungsbedingungen zu akzeptieren.");
 
-define("ABI_UI_WELCOME_HEADER_SECURITY_CSRF", "Register session expired!");
-define("ABI_UI_WELCOME_INFO_SECURITY_CSRF", "The register process took too long. Please refresh the page and try again.");
+define("ABI_UI_WELCOME_HEADER_SECURITY_CSRF", "Registrierungssitzung abgelaufen!");
+define("ABI_UI_WELCOME_INFO_SECURITY_CSRF", "Deine Registrierung hat zu lange gebraucht und wurde beendet. Bitte versuche es noch einmal.");
 
-define("ABI_UI_WELCOME_HEADER_CONFIRM_TOKEN_UNKNOWN", "Unknown confirmation token!");
-define("ABI_UI_WELCOME_INFO_CONFIRM_TOKEN_UNKNOWN", "Invalid activation token. Please make sure to use the link sent via email or contact ABI support.");
+define("ABI_UI_WELCOME_HEADER_CONFIRM_TOKEN_UNKNOWN", "Unbekannter Bestätigungs-Token!");
+define("ABI_UI_WELCOME_INFO_CONFIRM_TOKEN_UNKNOWN", "Der Token zur Bestätigung deiner E-Mail Adresse ist ungültig. Bitte versuche es noch einmal oder kontaktiere den ABI support.");
 
-define("ABI_UI_WELCOME_HEADER_USER_ILLEGAL", "Username is not allowed!");
-define("ABI_UI_WELCOME_INFO_USER_ILLEGAL", "The username you specified is illegal and can not be used. Usernames may only contain alphanumeric characters, minus signs, underscores and numbers.");
+define("ABI_UI_WELCOME_HEADER_USER_ILLEGAL", "Benutzername verboten!");
+define("ABI_UI_WELCOME_INFO_USER_ILLEGAL", "Der gewählte Benutzername kann nicht verwendet werden. Benutzernamen können nur folgendes enthalten: Groß- und Kleinbuchtaben, Zahlen, Leerzeichen, Punkte, Unterstriche und Minus-Zeichen.");
 
-define("ABI_UI_WELCOME_HEADER_USER_TAKEN", "Username is taken!");
-define("ABI_UI_WELCOME_INFO_USER_TAKEN", "The username you specified is already in use. Please use a different name.");
+define("ABI_UI_WELCOME_HEADER_USER_TAKEN", "Benutzername vergeben!");
+define("ABI_UI_WELCOME_INFO_USER_TAKEN", "Der gewünschte Benutzername wird bereits von einem anderen Benutzer verwendet.");
 
-define("ABI_UI_WELCOME_HEADER_EMAIL_TAKEN", "Email is taken!");
-define("ABI_UI_WELCOME_INFO_EMAIL_TAKEN", "Another user account has already been registered using this email address.");
+define("ABI_UI_WELCOME_HEADER_EMAIL_TAKEN", "E-Mail vergeben!");
+define("ABI_UI_WELCOME_INFO_EMAIL_TAKEN", "Die eingegebene E-Mail Adresse ist bereits einem anderen Benutzerkonto zugeordnet.");
 
-define("ABI_UI_WELCOME_HEADER_CREDS_INVALID", "Invalid credentials provided!");
-define("ABI_UI_WELCOME_INFO_CREDS_INVALID", "Invalid login credentials entered! Message team@abinteractive.net for further help.");
+define("ABI_UI_WELCOME_HEADER_CREDS_INVALID", "Anmeldeinformationen fehlerhaft!");
+define("ABI_UI_WELCOME_INFO_CREDS_INVALID", "Die eingegebenen Anmeldeinformationen sind fehlerhaft. Für hilfe, schreibe uns bitte an team@abinteractive.net.");
 
-define("ABI_UI_WELCOME_HEADER_CONFIRM_PENDING", "Account not activated!");
-define("ABI_UI_WELCOME_INFO_CONFIRM_PENDING", "Your account is currently awaiting confirmation. You can re-send your confirmation mail by clicking the button below.");
-define("ABI_UI_WELCOME_BUTTON_CONFIRM_PENDING", "Resend confirmation mail");
+define("ABI_UI_WELCOME_HEADER_CONFIRM_PENDING", "Benutzerkonto nicht freigeschaltet!");
+define("ABI_UI_WELCOME_INFO_CONFIRM_PENDING", "Dein Benutzerkonto muss noch freigeschaltet werden. Falls Du die Nachricht zur Freischaltung nicht erhalten hast, kannst du sie unten neu senden.");
+define("ABI_UI_WELCOME_BUTTON_CONFIRM_PENDING", "Bestätigungs-Nachricht neu senden");
 
-define("ABI_UI_WELCOME_HEADER_CONFIRM_RESENT", "Request sent!");
-define("ABI_UI_WELCOME_INFO_CONFIRM_RESENT", "Your confirmation email has been re-sent. Please also check your spam and promotional folders.");
+define("ABI_UI_WELCOME_HEADER_CONFIRM_RESENT", "Anfrage gesendet!");
+define("ABI_UI_WELCOME_INFO_CONFIRM_RESENT", "Deine Anfrage zum erneuten senden der Bestätigungs-Nachricht wurde bearbeitet.");
 
 define("ABI_UI_WELCOME_PLACEHOLDER_USER", "Benutzername");
 define("ABI_UI_WELCOME_PLACEHOLDER_EMAIL", "Email");
