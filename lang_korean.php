@@ -8,7 +8,7 @@ define("ABI_UI_WELCOME_HEADER_REGISTER", "계정 생성");
 
 define("ABI_UI_WELCOME_INFO_NOACCOUNT", "아직 계정이 없으신가요?");
 define("ABI_UI_WELCOME_INFO_PWRESET", "암호 재생성을 위해서 이메일을 적어주세요.");
-define("ABI_UI_WELCOME_INFO_PWRESET", "새 계정을 만들기 위해 아래 내용을 입력해 주세요.");
+define("ABI_UI_WELCOME_INFO_CREATE", "새 계정을 만들기 위해 아래 내용을 입력해 주세요.");
 define("ABI_UI_WELCOME_INFO_AGREEBOX", "체크시 동의합니다.");
 
 define("ABI_UI_WELCOME_PLACEHOLDER_USER", "유저명");

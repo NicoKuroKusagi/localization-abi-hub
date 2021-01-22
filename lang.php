@@ -8,7 +8,7 @@ define("ABI_UI_WELCOME_HEADER_REGISTER", "Create an account");
 
 define("ABI_UI_WELCOME_INFO_NOACCOUNT", "Not a member of ABI yet?");
 define("ABI_UI_WELCOME_INFO_PWRESET", "Enter your email to reset your password");
-define("ABI_UI_WELCOME_INFO_PWRESET", "Enter your details to create an account");
+define("ABI_UI_WELCOME_INFO_CREATE", "Enter your details to create an account");
 define("ABI_UI_WELCOME_INFO_AGREEBOX", "I agree to the");
 
 define("ABI_UI_WELCOME_PLACEHOLDER_USER", "Username");
