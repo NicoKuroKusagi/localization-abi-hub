@@ -11,10 +11,10 @@ define("ABI_UI_WELCOME_INFO_PWRESET", "Enter your email to reset your password")
 define("ABI_UI_WELCOME_INFO_PWRESET", "Enter your details to create an account");
 define("ABI_UI_WELCOME_INFO_AGREEBOX", "I agree to the");
 
-define("ABI_UI_WELCOME_PLACEHOLDER_EMAIL", "Username");
+define("ABI_UI_WELCOME_PLACEHOLDER_USER", "Username");
 define("ABI_UI_WELCOME_PLACEHOLDER_EMAIL", "Email");
 define("ABI_UI_WELCOME_PLACEHOLDER_PASSWORD", "Password");
-define("ABI_UI_WELCOME_PLACEHOLDER_PASSWORD", "Confirm Password");
+define("ABI_UI_WELCOME_PLACEHOLDER_PASSWORDCONFIRM", "Confirm Password");
 
 define("ABI_UI_WELCOME_BUTTON_SIGNIN", "Sign in");
 define("ABI_UI_WELCOME_BUTTON_SIGNUP", "Sign up");
