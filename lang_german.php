@@ -7,8 +7,8 @@ define("ABI_UI_WELCOME_HEADER_PWRESET", "Passwort zurücksetzen");
 define("ABI_UI_WELCOME_HEADER_REGISTER", "Benutzerkonto erstellen");
 
 define("ABI_UI_WELCOME_INFO_NOACCOUNT", "Noch kein Benutzerkonto?");
-define("ABI_UI_WELCOME_INFO_PWRESET", "Zum zurücksetzen des Passworts, bitte email eingeben.");
-define("ABI_UI_WELCOME_INFO_CREATE", "Zur erstellung eines Benutzerkontos, bitte daten eingeben.");
+define("ABI_UI_WELCOME_INFO_PWRESET", "Zum zurücksetzen des Passworts, bitte Email eingeben.");
+define("ABI_UI_WELCOME_INFO_CREATE", "Zur erstellung eines Benutzerkontos, bitte Daten eingeben.");
 define("ABI_UI_WELCOME_INFO_AGREEBOX", "Ich stimme zu: ");
 
 define("ABI_UI_WELCOME_PLACEHOLDER_USER", "Benutzername");
