@@ -7,7 +7,7 @@ define("ABI_UI_WELCOME_HEADER_REGISTER", "Opprett en konto");
 
 define("ABI_UI_WELCOME_INFO_NOACCOUNT", "Ikke medlem av ABI enda?");
 define("ABI_UI_WELCOME_INFO_PWRESET", "Vennligst oppgi din e-post for å tilbakestille passord");
-define("ABI_UI_WELCOME_INFO_CREATE", "Vennligst oppgi dine detaljer for å opprette en konto. Brukernavn kan kun inneholde (a-z) (A-Z) (0-9) (.-_)");
+define("ABI_UI_WELCOME_INFO_CREATE", "Vennligst oppgi dine detaljer for å opprette en konto. Brukernavn kan kun inneholde (a-z) (A-Z) (0-9) (-_)");
 define("ABI_UI_WELCOME_INFO_AGREEBOX", "Jeg godtar");
 
 define("ABI_UI_WELCOME_HEADER_PWRESET_SENT", "Tilbakestilling sendt!");
