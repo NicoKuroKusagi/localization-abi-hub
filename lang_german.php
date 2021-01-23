@@ -47,7 +47,7 @@ define("ABI_UI_WELCOME_HEADER_CONFIRM_TOKEN_UNKNOWN", "Unbekannter Bestätigungs
 define("ABI_UI_WELCOME_INFO_CONFIRM_TOKEN_UNKNOWN", "Der Token zur Bestätigung deiner E-Mail Adresse ist ungültig. Bitte versuche es noch einmal oder kontaktiere den ABI support.");
 
 define("ABI_UI_WELCOME_HEADER_USER_ILLEGAL", "Benutzername verboten!");
-define("ABI_UI_WELCOME_INFO_USER_ILLEGAL", "Der gewählte Benutzername kann nicht verwendet werden. Benutzernamen können nur folgendes enthalten: Groß- und Kleinbuchtaben, Zahlen, Leerzeichen, Punkte, Unterstriche und Minus-Zeichen.");
+define("ABI_UI_WELCOME_INFO_USER_ILLEGAL", "Der gewählte Benutzername kann nicht verwendet werden. Benutzernamen können nur folgendes enthalten: Groß- und Kleinbuchtaben, Zahlen, Leerzeichen, Unterstriche und Minus-Zeichen.");
 
 define("ABI_UI_WELCOME_HEADER_USER_TAKEN", "Benutzername vergeben!");
 define("ABI_UI_WELCOME_INFO_USER_TAKEN", "Der gewünschte Benutzername wird bereits von einem anderen Benutzer verwendet.");
@@ -56,7 +56,7 @@ define("ABI_UI_WELCOME_HEADER_EMAIL_TAKEN", "E-Mail vergeben!");
 define("ABI_UI_WELCOME_INFO_EMAIL_TAKEN", "Die eingegebene E-Mail Adresse ist bereits einem anderen Benutzerkonto zugeordnet.");
 
 define("ABI_UI_WELCOME_HEADER_CREDS_INVALID", "Anmeldeinformationen fehlerhaft!");
-define("ABI_UI_WELCOME_INFO_CREDS_INVALID", "Die eingegebenen Anmeldeinformationen sind fehlerhaft. Für hilfe, schreibe uns bitte an team@abinteractive.net.");
+define("ABI_UI_WELCOME_INFO_CREDS_INVALID", "Die eingegebenen Anmeldeinformationen sind fehlerhaft. Für Hilfe, schreibe uns bitte an team@abinteractive.net.");
 
 define("ABI_UI_WELCOME_HEADER_CONFIRM_PENDING", "Benutzerkonto nicht freigeschaltet!");
 define("ABI_UI_WELCOME_INFO_CONFIRM_PENDING", "Dein Benutzerkonto muss noch freigeschaltet werden. Falls Du die Nachricht zur Freischaltung nicht erhalten hast, kannst du sie unten neu senden.");
