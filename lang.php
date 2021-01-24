@@ -7,7 +7,7 @@ define("ABI_UI_WELCOME_HEADER_REGISTER", "Create an account");
 
 define("ABI_UI_WELCOME_INFO_NOACCOUNT", "Not a member of ABI yet?");
 define("ABI_UI_WELCOME_INFO_PWRESET", "Enter your email to reset your password");
-define("ABI_UI_WELCOME_INFO_CREATE", "Enter your details to create an account");
+define("ABI_UI_WELCOME_INFO_CREATE", "Enter your details to create an account. Username can only contain [a-z] [A-Z] [0-9] [.-_]");
 define("ABI_UI_WELCOME_INFO_AGREEBOX", "I agree to the");
 
 define("ABI_UI_WELCOME_HEADER_PWRESET_SENT", "Request sent!");
@@ -47,7 +47,7 @@ define("ABI_UI_WELCOME_HEADER_CONFIRM_TOKEN_UNKNOWN", "Unknown confirmation toke
 define("ABI_UI_WELCOME_INFO_CONFIRM_TOKEN_UNKNOWN", "Invalid activation token. Please make sure to use the link sent via email or contact ABI support.");
 
 define("ABI_UI_WELCOME_HEADER_USER_ILLEGAL", "Username is not allowed!");
-define("ABI_UI_WELCOME_INFO_USER_ILLEGAL", "The username you specified is illegal and can not be used. Usernames may only contain alphanumeric characters, minus signs, underscores and numbers.");
+define("ABI_UI_WELCOME_INFO_USER_ILLEGAL", "The username you specified is illegal and can not be used. Usernames may only contain alphanumeric characters, minus signs, underscores, dots and numbers.");
 
 define("ABI_UI_WELCOME_HEADER_USER_TAKEN", "Username is taken!");
 define("ABI_UI_WELCOME_INFO_USER_TAKEN", "The username you specified is already in use. Please use a different name.");
