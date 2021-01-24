@@ -7,7 +7,7 @@ define("ABI_UI_WELCOME_HEADER_REGISTER", "Opprett en konto");
 
 define("ABI_UI_WELCOME_INFO_NOACCOUNT", "Ikke medlem av ABI enda?");
 define("ABI_UI_WELCOME_INFO_PWRESET", "Vennligst oppgi din e-post for å tilbakestille passord");
-define("ABI_UI_WELCOME_INFO_CREATE", "Vennligst oppgi dine detaljer for å opprette en konto. Brukernavn kan kun inneholde (a-z) (A-Z) (0-9) (-_)");
+define("ABI_UI_WELCOME_INFO_CREATE", "Vennligst oppgi dine detaljer for å opprette en konto. Brukernavn kan kun inneholde [a-z] [A-Z] [0-9] [.-_]");
 define("ABI_UI_WELCOME_INFO_AGREEBOX", "Jeg godtar");
 
 define("ABI_UI_WELCOME_HEADER_PWRESET_SENT", "Tilbakestilling sendt!");
@@ -47,7 +47,7 @@ define("ABI_UI_WELCOME_HEADER_CONFIRM_TOKEN_UNKNOWN", "Ukjent aktiverings nøkke
 define("ABI_UI_WELCOME_INFO_CONFIRM_TOKEN_UNKNOWN", "Ukjent aktiverings nøkkel. Vennligst vær sikker på at du bruker linken sendt til e-psoten din eller kontakt ABI kundestøtte.");
 
 define("ABI_UI_WELCOME_HEADER_USER_ILLEGAL", "Brukernavnet er ikke lovlig!");
-define("ABI_UI_WELCOME_INFO_USER_ILLEGAL", "Brukernavnet du har skrevet er ikke lovlig og kan ikke bli brukt. Brukernavn kan kun inneholde: (a-z) (A-Z) (-_) (0-9).");
+define("ABI_UI_WELCOME_INFO_USER_ILLEGAL", "Brukernavnet du har skrevet er ikke lovlig og kan ikke bli brukt. Brukernavn kan kun inneholde alfanumeriske tegn, bindestrek, understrek, punktum og nummer.");
 
 define("ABI_UI_WELCOME_HEADER_USER_TAKEN", "Brukernavn er i bruk!");
 define("ABI_UI_WELCOME_INFO_USER_TAKEN", "Brukernavnet du har skrevet er allerede i bruk. Vennligst bruk et annet navn.");
