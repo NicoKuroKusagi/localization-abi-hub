@@ -8,7 +8,7 @@ define("ABI_UI_WELCOME_HEADER_REGISTER", "Créer un compte");
 define("ABI_UI_WELCOME_INFO_NOACCOUNT", "Pas encore un membre d'ABI?");
 define("ABI_UI_WELCOME_INFO_PWRESET", "Entrer votre email pour réinitialiser votre mot de passe");
 define("ABI_UI_WELCOME_INFO_CREATE", "Entrer vos informations pour créer un compte. Votre nom d'utilisateur peut seulement contenir [a-z] [A-Z] [0-9] [.-_]");
-define("ABI_UI_WELCOME_INFO_AGREEBOX", "Je suis d'accord avec le");
+define("ABI_UI_WELCOME_INFO_AGREEBOX", "J'accepte");
 
 define("ABI_UI_WELCOME_HEADER_PWRESET_SENT", "Requête envoyée!");
 define("ABI_UI_WELCOME_INFO_PWRESET_SENT", "Si cet email est connu de notre côté, vous recevrez un email sous peu."); 
