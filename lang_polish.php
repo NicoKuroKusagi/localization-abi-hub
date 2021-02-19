@@ -19,7 +19,7 @@ define("ABI_UI_WELCOME_INFO_PWRESET_COMPLETE", "Resetowanie hasła zostało prze
 define("ABI_UI_WELCOME_HEADER_PW_NO_MATCH", "Twoje hasła nie zgadzają się!");
 define("ABI_UI_WELCOME_INFO_PW_NO_MATCH", "Wprowadzone hasła się nie zgadzają.");
 
-define("ABI_UI_WELCOME_HEADER_PW_TOO_WEAK", "Hasło zbyt słabe!");
+define("ABI_UI_WELCOME_HEADER_PW_TOO_WEAK", "Hasło jest za słabe!");
 define("ABI_UI_WELCOME_INFO_PW_TOO_WEAK", "Twoje hasło jest za słabe. Dla własnego bezpieczeństwa użyj silniejszego hasła.");
 
 define("ABI_UI_WELCOME_HEADER_EMAIL_INVALID", "Adres e-mail jest nieprawidłowy!");
