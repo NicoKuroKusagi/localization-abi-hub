@@ -47,10 +47,10 @@ define("ABI_UI_WELCOME_HEADER_CONFIRM_TOKEN_UNKNOWN", "Onbekend bevestigingstoke
 define("ABI_UI_WELCOME_INFO_CONFIRM_TOKEN_UNKNOWN", "Ongeldig activeringstoken. Zorg ervoor dat u de link gebruikt die via e-mail is verzonden of neem contact op met ABI-support.");
 
 define("ABI_UI_WELCOME_HEADER_USER_ILLEGAL", "Gebruikernaam is niet toegestaan!");
-define("ABI_UI_WELCOME_INFO_USER_ILLEGAL", "De gebruikersnaam die u heeft opgegeven is kan niet worden gebruikt. Gebruikersnamen mogen alleen alfanumerieke tekens, mintekens, onderstrepingstekens, punten en cijfers bevatten.");
+define("ABI_UI_WELCOME_INFO_USER_ILLEGAL", "De gebruikersnaam die u heeft opgegeven kan niet worden gebruikt. Gebruikersnamen mogen alleen alfanumerieke tekens, mintekens, onderstrepingstekens, punten en cijfers bevatten.");
 
 define("ABI_UI_WELCOME_HEADER_USER_TAKEN", "Gebruikersnaam is in gebruik!");
-define("ABI_UI_WELCOME_INFO_USER_TAKEN", "De gebruikersnaam die je hebt opgegeven, is al in gebruik. Gebruik een andere naam.");
+define("ABI_UI_WELCOME_INFO_USER_TAKEN", "De gebruikersnaam die u heeft opgegeven is al in gebruik. Gebruik een andere naam.");
 
 define("ABI_UI_WELCOME_HEADER_EMAIL_TAKEN", "E-mail is in gebruik!");
 define("ABI_UI_WELCOME_INFO_EMAIL_TAKEN", "Er is al een ander gebruikersaccount geregistreerd met dit e-mailadres.");
