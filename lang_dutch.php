@@ -35,7 +35,7 @@ define("ABI_UI_WELCOME_HEADER_REGISTER_DISABLED", "Registraties uitgeschakeld!")
 define("ABI_UI_WELCOME_INFO_REGISTER_DISABLED", "Registraties zijn op dit moment uitgeschakeld.");
 
 define("ABI_UI_WELCOME_HEADER_LOGIN_DISABLED", "Logins uitgeschakeld!");
-define("ABI_UI_WELCOME_INFO_LOGIN_DISABLED", "Logins zijn op dit moment uitgeschakeld moment.");
+define("ABI_UI_WELCOME_INFO_LOGIN_DISABLED", "Logins zijn op dit moment uitgeschakeld.");
 
 define("ABI_UI_WELCOME_HEADER_LEGAL_CHECKBOXES", "Wettelijke vereisten niet vervuld!");
 define("ABI_UI_WELCOME_INFO_LEGAL_CHECKBOXES", "Om een account aan te maken, moet je onze richtlijnen en privacybeleid accepteren!");
