@@ -1,41 +1,41 @@
 <?php
 
 //Registration, Sign-Up
-define("ABI_UI_WELCOME_HEADER", "Sign in to Community Hub");
-define("ABI_UI_WELCOME_HEADER_PWRESET", "Reset your password");
-define("ABI_UI_WELCOME_HEADER_REGISTER", "Create an account");
+define("ABI_UI_WELCOME_HEADER", "Přihlásit se do Comunity Hub");
+define("ABI_UI_WELCOME_HEADER_PWRESET", "Resetovat heslo");
+define("ABI_UI_WELCOME_HEADER_REGISTER", "Vytvořit účet");
 
-define("ABI_UI_WELCOME_INFO_NOACCOUNT", "Not a member of ABI yet?");
-define("ABI_UI_WELCOME_INFO_PWRESET", "Enter your email to reset your password");
-define("ABI_UI_WELCOME_INFO_CREATE", "Enter your details to create an account. Username can only contain [a-z] [A-Z] [0-9] [.-_]");
-define("ABI_UI_WELCOME_INFO_AGREEBOX", "I agree to the");
+define("ABI_UI_WELCOME_INFO_NOACCOUNT", "Nejste ještě členem ABI?");
+define("ABI_UI_WELCOME_INFO_PWRESET", "Zadejte svůj email pro resetovní svého hesla");
+define("ABI_UI_WELCOME_INFO_CREATE", "Zadejte své údaje pro vytvoření účtu. Uživatelské jméno může obsahovat pouze [a-z] [A-Z] [0-9] [.-_]");
+define("ABI_UI_WELCOME_INFO_AGREEBOX", "Souhlasím s");
 
-define("ABI_UI_WELCOME_HEADER_PWRESET_SENT", "Request sent!");
-define("ABI_UI_WELCOME_INFO_PWRESET_SENT", "If this email address is known on our end, you will receive an email shortly.");
+define("ABI_UI_WELCOME_HEADER_PWRESET_SENT", "Požadavek odeslán!");
+define("ABI_UI_WELCOME_INFO_PWRESET_SENT", "Pokud tahle emailová adressa je nám známa, obdržíte v okamžiku email.");
 
-define("ABI_UI_WELCOME_HEADER_PWRESET_COMPLETE", "Password reset processed!");
-define("ABI_UI_WELCOME_INFO_PWRESET_COMPLETE", "Your password reset has been processed and your password has been changed.");
+define("ABI_UI_WELCOME_HEADER_PWRESET_COMPLETE", "Reset hesla byl zpracován!");
+define("ABI_UI_WELCOME_INFO_PWRESET_COMPLETE", "Tvůj reset hesla byl zpracován a tvé heslo bylo zmeněno.");
 
-define("ABI_UI_WELCOME_HEADER_PW_NO_MATCH", "Your passwords do not match!");
-define("ABI_UI_WELCOME_INFO_PW_NO_MATCH", "The entered passwords do not match.");
+define("ABI_UI_WELCOME_HEADER_PW_NO_MATCH", "Tvé heslo se neshoduje!");
+define("ABI_UI_WELCOME_INFO_PW_NO_MATCH", "Zadané hesla se neshodují.");
 
-define("ABI_UI_WELCOME_HEADER_PW_TOO_WEAK", "Password too weak!");
-define("ABI_UI_WELCOME_INFO_PW_TOO_WEAK", "Your password is too weak. For your own safety, please use a stronger password.");
+define("ABI_UI_WELCOME_HEADER_PW_TOO_WEAK", "Heslo je přiliš slabé!");
+define("ABI_UI_WELCOME_INFO_PW_TOO_WEAK", "Tvé heslo je přiliš slabé. Pro svoji vlastní bezpečnost, prosím použijte silnější heslo.");
 
-define("ABI_UI_WELCOME_HEADER_EMAIL_INVALID", "Email address invalid!");
-define("ABI_UI_WELCOME_INFO_EMAIL_INVALID", "The entered email address is not valid. Please make sure to check for typos.");
+define("ABI_UI_WELCOME_HEADER_EMAIL_INVALID", "Emailová adresa je neplatná!");
+define("ABI_UI_WELCOME_INFO_EMAIL_INVALID", "Zadaná emailová adresa je neplatná. Prosím ujistěte se, že jste se nepřekleply.");
 
-define("ABI_UI_WELCOME_HEADER_ACCOUNT_AWAIT_CONFIRM", "Welcome to ABI!");
-define("ABI_UI_WELCOME_INFO_ACCOUNT_AWAIT_CONFIRM", "Your user account has been created and is now awaiting confirmation. Please check your email inbox, spam and promotional folders.");
+define("ABI_UI_WELCOME_HEADER_ACCOUNT_AWAIT_CONFIRM", "Vítejte v ABI!");
+define("ABI_UI_WELCOME_INFO_ACCOUNT_AWAIT_CONFIRM", "Tvůj uživatelský účet byl vytvořen a nyní čeká na potvrzení. Prosím zkontrolujte svůj email and spam složku.");
 
-define("ABI_UI_WELCOME_HEADER_ACCOUNT_CONFIRMED", "Welcome to ABI!");
-define("ABI_UI_WELCOME_INFO_ACCOUNT_CONFIRMED", "Your account has been activated and you are now able to log in.");
+define("ABI_UI_WELCOME_HEADER_ACCOUNT_CONFIRMED", "Vítejte v ABI!");
+define("ABI_UI_WELCOME_INFO_ACCOUNT_CONFIRMED", "Tvůj účet byl aktivován a nyní jsi schopný se přihlásit.");
 
-define("ABI_UI_WELCOME_HEADER_REGISTER_DISABLED", "Registrations disabled!");
-define("ABI_UI_WELCOME_INFO_REGISTER_DISABLED", "Registrations are disabled at this time.");
+define("ABI_UI_WELCOME_HEADER_REGISTER_DISABLED", "Registrace jsou deaktivovány!");
+define("ABI_UI_WELCOME_INFO_REGISTER_DISABLED", "Registrace jsou deaktivovány v tuto chvíli.");
 
-define("ABI_UI_WELCOME_HEADER_LOGIN_DISABLED", "Logins disabled!");
-define("ABI_UI_WELCOME_INFO_LOGIN_DISABLED", "Logins are disabled at this time.");
+define("ABI_UI_WELCOME_HEADER_LOGIN_DISABLED", "Přihlasování je deaktivováno!");
+define("ABI_UI_WELCOME_INFO_LOGIN_DISABLED", "Přihlasování je deaktivováno v tuto chvíli");
 
 define("ABI_UI_WELCOME_HEADER_LEGAL_CHECKBOXES", "Legal requirements not met!");
 define("ABI_UI_WELCOME_INFO_LEGAL_CHECKBOXES", "To create an account, you have to accept our guidelines and privacy policy!");
